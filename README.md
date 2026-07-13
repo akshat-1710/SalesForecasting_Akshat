@@ -108,6 +108,18 @@ streamlit run app.py
 
 ---
 
+## Live Demo
+
+### Streamlit Application
+
+https://salesforecastingakshat-bnjoq4dqhr6kdqbkmhitj8.streamlit.app
+
+### GitHub Repository
+
+https://github.com/akshat-1710/SalesForecasting_Akshat
+
+---
+
 ## Author
 
-Akshat Agrawal
+Akshat
